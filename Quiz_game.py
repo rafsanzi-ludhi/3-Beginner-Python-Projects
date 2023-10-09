@@ -36,5 +36,5 @@ if answer.lower() == "power supply":
 else:
     print("Incorrect!")
 
-print("You got " + str(score) + " questions correct!")
+print("You got " + str(score) + " question correct!")
 print("You got " + str((score / 4) * 100) + "%.")
