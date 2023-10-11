@@ -55,3 +55,4 @@ else:
 # Print the total score and the percentage of correct answers
 print("You got " + str(score) + " questions correct!")
 print("You got " + str((score / 4) * 100) + "%.")
+
